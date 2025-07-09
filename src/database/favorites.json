@@ -1,0 +1,38 @@
+{
+    "30908": {
+        "title": "Soul Eater",
+        "author": "Yoshiki Tonogai",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Supernatural"
+        ],
+        "volumes": 25,
+        "image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30908-nk6Ct4euJelZ.jpg",
+        "read_volumes": [
+            6,
+            18,
+            24,
+            23,
+            2,
+            8
+        ]
+    },
+    "11": {
+        "title": "Naruto",
+        "author": "Kishimoto, Masashi",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "volumes": 72,
+        "image_url": "https://cdn.myanimelist.net/images/manga/3/249658l.jpg",
+        "read_volumes": [
+            3,
+            10
+        ]
+    }
+}
